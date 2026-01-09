@@ -5,6 +5,7 @@ This repository contains the implementation and documentation of a cloud-based d
 # Project Structure
 
 The repository is organized as follows:
+```
 cloud-project-pyspark/
 ├── code/        # Databricks notebook
 ├── report/      # Final project report
@@ -12,7 +13,7 @@ cloud-project-pyspark/
 ├── data/        # Small sample datasets
 ├── README.md    # Project description and usage guide
 └── .gitignore   # Git ignore rules
-
+```
 
 # Code
 
